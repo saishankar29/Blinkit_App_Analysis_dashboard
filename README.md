@@ -15,4 +15,6 @@ To analyze sales performance, customer ratings, and outlet efficiency across dif
 - 9.How does fat content (Low Fat vs. Regular) impact customer ratings?
 - 10.Which item categories contribute the most to total sales and average ratings?
 # Dashboard
-- <a href="">Dashboard</a>
+- <a href="https://github.com/saishankar29/Blinkit_App_Analysis_dashboard">Dashboard</a>
+
+![Screenshot 2025-03-11 141958](https://github.com/user-attachments/assets/ecc54a53-4b77-4592-bba3-49fe8324099a)
